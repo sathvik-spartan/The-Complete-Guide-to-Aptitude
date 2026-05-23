@@ -53,4 +53,6 @@ This structured tracker is designed to help you (and fellow learners) build a st
 ### Make sure to Star this repo if you found it helpful!  
 Contributions, doubts (Gmail : sathvikspartan@gmail.com) , and improvements are always welcome!
 
+> I guide others to a treasure I cannot possess
+
 ---
