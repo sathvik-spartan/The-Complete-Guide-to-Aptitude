@@ -1,7 +1,0 @@
-# Ignore node, python, and OS system files
-node_modules/
-__pycache__/
-.env
-.DS_Store
-*.log
-*.pyc
