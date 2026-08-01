@@ -4,8 +4,6 @@
 
 This study plan is designed to build a strong foundation in **Quantitative Aptitude**, **Logical Reasoning**, and **Verbal Ability** over a period of **12 weeks**. It is suitable for campus placements, competitive examinations, and aptitude-based interviews.
 
-The objective is to develop conceptual understanding, improve problem-solving speed, and achieve consistent accuracy through structured practice and periodic revision.
-
 ---
 
 # Daily Study Schedule
@@ -136,17 +134,18 @@ Review the error log every Sunday to reinforce learning and avoid repeating mist
 # Recommended Resources
 
 ## Books
-
-* RS Aggarwal – Quantitative Aptitude
-* RS Aggarwal – Logical Reasoning
-* Arun Sharma – Quantitative Aptitude (Recommended for CAT Aspirants)
+  - RS Aggarwal – Quantitative Aptitude
+  - Arun Sharma – QA for CAT (Only if you are seriously preparing for CAT, this would be an additional benefit).
+  - RS Aggarwal – Logical Reasoning
+  - I've also uploaded another Aptitude Workbook (Purely Reasoning Ability) in the repo -> [PW Aptitude Workbook](https://github.com/sathvik-spartan/Aptitude_A-Z/blob/main/PW%20Aptitude%20Workbook.pdf)
+> Note : Downloadable RS Aggarwal Books are in the "resources" folder
 
 ## Practice Platforms
 
-* IndiaBix
-* PrepInsta
-* Unstop
-* Testbook
+  - [IndiaBix](https://www.indiabix.com)
+  - [PrepInsta](https://prepinsta.com)
+  - [Unstop](https://unstop.com/employers/online-assessment-platform/aptitude-test)
+  - [Testbook](https://testbook.com)
 
 ---
 
@@ -172,21 +171,6 @@ By the end of this study plan, you should be able to:
 * Identify recurring mistakes and systematically eliminate them through revision.
 
 Consistent effort over the full 12-week period will produce significantly better results than irregular, high-intensity study sessions.
-
-
-## Recommended Resources (RS Aggarwal Books are in the "resources" folder).
-
-- **Books**
-  - RS Aggarwal – Quantitative Aptitude
-  - Arun Sharma – QA for CAT (Only if you are seriously preparing for CAT, this would be an additional benefit).
-  - RS Aggarwal – Logical Reasoning
-  - I've also uploaded another Aptitude Workbook (Purely Reasoning Ability) in the repo -> [PW Aptitude Workbook](https://github.com/sathvik-spartan/Aptitude_A-Z/blob/main/PW%20Aptitude%20Workbook.pdf)
-
-- **Websites**
-  - [IndiaBix](https://www.indiabix.com)
-  - [PrepInsta](https://prepinsta.com)
-  - [Unstop](https://unstop.com/employers/online-assessment-platform/aptitude-test)
-  - [Testbook](https://testbook.com)
 
 ---
 
