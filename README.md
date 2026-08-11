@@ -133,9 +133,6 @@ After every mock test:
 ## Practice Platforms
 
   - [IndiaBix](https://www.indiabix.com)
-  - [PrepInsta](https://prepinsta.com)
-  - [Unstop](https://unstop.com/employers/online-assessment-platform/aptitude-test)
-  - [Testbook](https://testbook.com)
   - [GeeksForGeeks Total Aptitude Mastery](https://www.geeksforgeeks.org/aptitude/aptitude-questions-and-answers/)
 
 ---
