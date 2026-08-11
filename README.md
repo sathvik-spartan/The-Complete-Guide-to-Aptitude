@@ -149,29 +149,15 @@ After every mock test:
 
 ---
 
-# Expected Outcomes
-
-By the end of this study plan, you should be able to:
-
-* Solve aptitude problems efficiently and accurately.
-* Perform well in campus placement assessments.
-* Approach competitive examination aptitude sections with confidence.
-* Identify recurring mistakes and systematically eliminate them through revision.
-
-Consistent effort over the full 12-week period will produce significantly better results than irregular, high-intensity study sessions.
-
----
-
 ## Tips !   
 - Practice regularly and avoid burnout.
-- Maintain an **error log** for tricky questions. (Very Important)
+- Maintain an **error log** book for tricky questions. (Very Important)
 - Time yourself to build speed and accuracy.
 - Revise every Sunday for long-term retention.
-- Be disciplined in your learning journey.
+- Be consistent in your learning journey.
 
 ---
 
-### Make sure to Star this repo if you found it helpful!  
-Contributions, doubts (Gmail : sathvikspartan@gmail.com) , and improvements are always welcome!
+### Make sure to Star ⭐ this repo if you found it helpful!  
 
 ---
